@@ -1,4 +1,4 @@
-# Video Chat Applicatino Without Voice
+# Video Chat Application Without Voice
 Summer Task-3
 <br><br>
 This is a Live Streaming Video Chat application without voice. <br>
